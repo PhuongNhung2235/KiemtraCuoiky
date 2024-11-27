@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Fedtured"
+        android:id="@+id/fedtured"
+        />
+    <item
+        android:title="Feed"
+        android:id="@+id/feed"
+    />
+    <item
+        android:title="Settings"
+        android:id="@+id/setting"
+        />
+</menu>
